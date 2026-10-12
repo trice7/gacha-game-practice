@@ -1,4 +1,4 @@
-def start_menu(save_exists=False):
+def start_menu(save_exists=False, save_data=""):
     print('Welcome Mortals to the world of Adventure Game!!')
     print('\n')
     print('Please select what an option!')

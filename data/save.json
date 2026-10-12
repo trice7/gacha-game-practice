@@ -9,7 +9,9 @@
     },
     "heroes": {
 
-    }
+    },
+    "gold": "",
+    "soul_gems":""
   },
   "save2" : {
     "name": "",
@@ -20,7 +22,9 @@
     },
     "heroes": {
 
-    }
+    },
+    "gold": "",
+    "soul_gems":""
   },
   "save3" : {
     "name": "",
@@ -31,6 +35,8 @@
     },
     "heroes": {
 
-    }
+    },
+    "gold": "",
+    "soul_gems":""
   }
 }
