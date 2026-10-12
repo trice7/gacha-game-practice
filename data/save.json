@@ -1,0 +1,36 @@
+{
+  "save_exists" : false,
+  "save1" : {
+    "name": "",
+    "lastSaveDate": "",
+    "level":"",
+    "inventory": {
+
+    },
+    "heroes": {
+
+    }
+  },
+  "save2" : {
+    "name": "",
+    "lastSaveDate": "",
+    "level":"",
+    "inventory": {
+
+    },
+    "heroes": {
+
+    }
+  },
+  "save3" : {
+    "name": "",
+    "lastSaveDate": "",
+    "level":"",
+    "inventory": {
+
+    },
+    "heroes": {
+
+    }
+  }
+}

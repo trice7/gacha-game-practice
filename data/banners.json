@@ -1,0 +1,19 @@
+{
+  "standard_banner" : {
+    "banner_name" : "Standard Banner",
+    "rate_up": null,
+    "limited_rate_up": null,
+    "rerun": false,
+    "rerun_banner": null,
+    "time_period": null,
+    "description": "Standard Banner. Equal chance to pull all non-limited heroes"
+  },
+  "olympus1" : {
+    "banner_name": "Olympus Rising: Zeus",
+    "rate_up": "Zeus",
+    "limited_rate_up": null,
+    "rerun_banner": null,
+    "time_period": null,
+    "description": "King of Olympus has appeared! Zeus is available for rate up until ..."
+  }
+}

@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Warrior",
+    "faction": "Power",
+    "rarity": "Common",
+    "flavor_text": "A steadfast soldier who stands firm against any foe.",
+    "power": 10,
+    "defense": 12,
+    "base_star_value": 1
+  },
+  {
+    "name": "Knight",
+    "faction": "Power",
+    "rarity": "Common",
+    "flavor_text": "Clad in battered armor, this knight protects the innocent.",
+    "power": 9,
+    "defense": 14,
+    "base_star_value": 1
+  },
+  {
+    "name": "Scout",
+    "faction": "Speed",
+    "rarity": "Common",
+    "flavor_text": "Quick on their feet, scouts uncover hidden paths and enemy movements.",
+    "power": 12,
+    "defense": 8,
+    "base_star_value": 1
+  },
+  {
+    "name": "Apprentice",
+    "faction": "Energy",
+    "rarity": "Common",
+    "flavor_text": "A young spellcaster learning to control a flickering spark of magic.",
+    "power": 11,
+    "defense": 9,
+    "base_star_value": 1
+  },
+  {
+    "name": "Archer",
+    "faction": "Speed",
+    "rarity": "Common",
+    "flavor_text": "A reliable marksman who rarely misses a stationary target.",
+    "power": 13,
+    "defense": 7,
+    "base_star_value": 1
+  },
+  {
+    "name": "Guard",
+    "faction": "Power",
+    "rarity": "Common",
+    "flavor_text": "The first line of defense, trained to hold the gates at all costs.",
+    "power": 8,
+    "defense": 15,
+    "base_star_value": 1
+  },
+  {
+    "name": "Acolyte",
+    "faction": "Energy",
+    "rarity": "Common",
+    "flavor_text": "A humble devotee who channels a small measure of mystical energy.",
+    "power": 10,
+    "defense": 10,
+    "base_star_value": 1
+  },
+  {
+    "name": "Brawler",
+    "faction": "Power",
+    "rarity": "Common",
+    "flavor_text": "A rough fighter who relies on strength, grit, and a heavy fist.",
+    "power": 14,
+    "defense": 9,
+    "base_star_value": 1
+  },
+  {
+    "name": "Runner",
+    "faction": "Speed",
+    "rarity": "Common",
+    "flavor_text": "Few can keep pace with this messenger across open terrain.",
+    "power": 9,
+    "defense": 8,
+    "base_star_value": 1
+  },
+  {
+    "name": "Initiate",
+    "faction": "Energy",
+    "rarity": "Common",
+    "flavor_text": "An eager novice whose potential has only begun to awaken.",
+    "power": 12,
+    "defense": 9,
+    "base_star_value": 1
+  },
+  {
+    "name": "Swordsman",
+    "faction": "Power",
+    "rarity": "Common",
+    "flavor_text": "A disciplined blade wielder who has mastered the basics of combat.",
+    "power": 13,
+    "defense": 11,
+    "base_star_value": 1
+  },
+  {
+    "name": "Thief",
+    "faction": "Speed",
+    "rarity": "Common",
+    "flavor_text": "A shadow in the night, always gone before the alarm sounds.",
+    "power": 12,
+    "defense": 7,
+    "base_star_value": 1
+  },
+  {
+    "name": "Vanguard",
+    "faction": "Power",
+    "rarity": "Uncommon",
+    "flavor_text": "A hardened front-line fighter who inspires allies to advance.",
+    "power": 22,
+    "defense": 24,
+    "base_star_value": 2
+  },
+  {
+    "name": "Wind Dancer",
+    "faction": "Speed",
+    "rarity": "Uncommon",
+    "flavor_text": "Moving with the breeze, this agile warrior strikes from unexpected angles.",
+    "power": 26,
+    "defense": 18,
+    "base_star_value": 2
+  },
+  {
+    "name": "Storm Adept",
+    "faction": "Energy",
+    "rarity": "Uncommon",
+    "flavor_text": "Lightning crackles at their fingertips as their command of the storm grows.",
+    "power": 25,
+    "defense": 20,
+    "base_star_value": 2
+  },
+  {
+    "name": "Iron Sentinel",
+    "faction": "Power",
+    "rarity": "Uncommon",
+    "flavor_text": "An unyielding guardian whose shield has survived a hundred battles.",
+    "power": 20,
+    "defense": 30,
+    "base_star_value": 2
+  },
+  {
+    "name": "Shadowblade",
+    "faction": "Speed",
+    "rarity": "Uncommon",
+    "flavor_text": "A silent assassin trained to end a fight before the enemy can react.",
+    "power": 29,
+    "defense": 16,
+    "base_star_value": 2
+  },
+  {
+    "name": "Runesmith",
+    "faction": "Energy",
+    "rarity": "Uncommon",
+    "flavor_text": "Ancient symbols glow across their gauntlets, empowering every strike.",
+    "power": 24,
+    "defense": 23,
+    "base_star_value": 2
+  },
+  {
+    "name": "Gladiator",
+    "faction": "Power",
+    "rarity": "Uncommon",
+    "flavor_text": "A crowd favorite who turns every arena battle into a spectacle.",
+    "power": 28,
+    "defense": 25,
+    "base_star_value": 2
+  },
+  {
+    "name": "Tempest Runner",
+    "faction": "Speed",
+    "rarity": "Uncommon",
+    "flavor_text": "A swift combatant who rides the edge of a raging storm.",
+    "power": 27,
+    "defense": 19,
+    "base_star_value": 2
+  },
+  {
+    "name": "Achilles",
+    "faction": "Power",
+    "rarity": "Rare",
+    "flavor_text": "The legendary Greek warrior charges into battle with unmatched courage, his fame echoing through the ages.",
+    "power": 45,
+    "defense": 42,
+    "base_star_value": 3
+  },
+  {
+    "name": "Atalanta",
+    "faction": "Speed",
+    "rarity": "Rare",
+    "flavor_text": "Swift as the hunt itself, Atalanta never loses sight of her quarry.",
+    "power": 49,
+    "defense": 35,
+    "base_star_value": 3
+  },
+  {
+    "name": "Morrigan",
+    "faction": "Energy",
+    "rarity": "Rare",
+    "flavor_text": "The phantom queen watches over battlefields, weaving fate through shadow and prophecy.",
+    "power": 47,
+    "defense": 39,
+    "base_star_value": 3
+  },
+  {
+    "name": "Leonidas",
+    "faction": "Power",
+    "rarity": "Rare",
+    "flavor_text": "A fearless king who would rather fall standing than surrender an inch of ground.",
+    "power": 43,
+    "defense": 52,
+    "base_star_value": 3
+  },
+  {
+    "name": "Hermes",
+    "faction": "Speed",
+    "rarity": "Rare",
+    "flavor_text": "Divine messenger and trickster, Hermes crosses the world before a heartbeat passes.",
+    "power": 51,
+    "defense": 34,
+    "base_star_value": 3
+  },
+  {
+    "name": "Thor",
+    "faction": "Power",
+    "rarity": "Mythic",
+    "flavor_text": "The thunder god brings the fury of the storm down upon those who threaten the realms.",
+    "power": 78,
+    "defense": 75,
+    "base_star_value": 4
+  },
+  {
+    "name": "Amaterasu",
+    "faction": "Energy",
+    "rarity": "Mythic",
+    "flavor_text": "Radiant sovereign of the sun, her divine light banishes darkness and restores the world.",
+    "power": 82,
+    "defense": 68,
+    "base_star_value": 4
+  },
+  {
+    "name": "Fenrir",
+    "faction": "Speed",
+    "rarity": "Mythic",
+    "flavor_text": "The colossal wolf races toward destiny, destined to shake the foundations of the gods.",
+    "power": 88,
+    "defense": 64,
+    "base_star_value": 4
+  },
+  {
+    "name": "Zeus",
+    "faction": "Energy",
+    "rarity": "Legendary",
+    "flavor_text": "King of Olympus, Zeus commands the heavens with a thunderbolt capable of shattering mountains and ending wars.",
+    "power": 125,
+    "defense": 110,
+    "base_star_value": 5
+  },
+  {
+    "name": "Odin",
+    "faction": "Power",
+    "rarity": "Legendary",
+    "flavor_text": "The All-Father sees through the veil of fate, wielding ancient wisdom and terrible power to defend the Nine Realms.",
+    "power": 115,
+    "defense": 130,
+    "base_star_value": 5
+  }
+]
