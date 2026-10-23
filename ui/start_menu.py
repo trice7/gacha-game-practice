@@ -1,3 +1,7 @@
+from .new_game import new_game
+from .load_game import load_game
+
+
 def start_menu(save_exists=False, save_data=""):
     print('Welcome Mortals to the world of Adventure Game!!')
     print('\n')
@@ -7,14 +11,12 @@ def start_menu(save_exists=False, save_data=""):
     print('2. Load Game' if save_exists else '')
     user_input = input('Choose your option')
 
-    if user_input == 1:
-        option_chosen = "new"
-    elif user_input == 2 & save_exists:
-        option_chosen = "load"
+    if int(user_input) == 1:
+        new_game()
+    elif int(user_input) == 2 and save_exists:
+        load_game()
     else:
         option_chosen = "error"
+        print('You hit the error else')
 
-    return option_chosen
-
-# TODO If statement should lead to another UI function.
-# Returning it into the main function is not efficient
+    return
